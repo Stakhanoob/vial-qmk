@@ -78,7 +78,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_BSPACE",
+      "KC_BSPC",
       "KC_0",
       "KC_ESCAPE"
     ],
@@ -87,7 +87,7 @@
       "KC_LALT",
       "KC_LSFT",
       "KC_DELETE",
-      "KC_BSPACE",
+      "KC_BSPC",
       "KC_VOLU",
       "KC_F1",
       "KC_F2",
